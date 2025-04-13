@@ -1,0 +1,4 @@
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file lib/libcurl.so","time":"2022-05-13T15:26:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file lib/libcurl.so.4","time":"2022-05-13T15:26:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file lib/libgumbo.so","time":"2022-05-13T15:26:11Z"}
+{"error":".zip archives do not support non-regular files","level":"error","msg":"unable to write file lib/libgumbo.so.1","time":"2022-05-13T15:26:11Z"}
