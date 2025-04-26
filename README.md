@@ -16,7 +16,7 @@ Therefore, we would like to know if they also work on Chinese information. In th
 - Support Vector Machine
 
 ## Future Improvement
-- Comparison between more different classifier
+- Comparison between more different classifiers
 - Adopt deep learning methods
-- Fix data imbalance
+- Fix data imbalance problem
 - Ensure that the context of true data and fake data are similar
