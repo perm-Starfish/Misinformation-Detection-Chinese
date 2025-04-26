@@ -9,6 +9,7 @@ Machine learning methods have been used for some research on misinformation dete
 Therefore, we would like to know if they also work on Chinese information. In this research, we chose the most common machine learning methods to conduct the experiment.
 
 ## Keywords
+- Natural Language Processing
 - TF-IDF Vectorizer
 - Count Vectorizer
 - Naive Bayes (Multinomial)
